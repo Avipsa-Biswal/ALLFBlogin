@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "934465560438",
+    "project_id": "all-fb-login",
+    "storage_bucket": "all-fb-login.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:934465560438:android:21fe866f7793819afce457",
+        "android_client_info": {
+          "package_name": "com.example.allfblogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7JJcgnfSc1pdYxE_0EkfYWmpu7S2_0F4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
