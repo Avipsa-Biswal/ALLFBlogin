@@ -1,0 +1,1 @@
+Practicing Firebase Auth Basics
